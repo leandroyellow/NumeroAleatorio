@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Número Aleatório</string>
+    <string name="escolha_numero">Escolha um número de 0 a 10</string>
+    <string name="jogar">Jogar</string>
+</resources>
